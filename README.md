@@ -1,6 +1,6 @@
-# Sorting Algorithms
+# Searching Algorithms
 
-This repository contains  various sorting algorithms in various languages. 
+This repository contains various search algorithms in various languages. 
 
 Intended personal use and development.
 
